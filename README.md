@@ -1,4 +1,4 @@
-# links-journal
+# Links Journal 🍕
  A journal of links visited while I was programming.
 
  ### October 27th, 2021
