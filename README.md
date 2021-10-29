@@ -10,3 +10,7 @@
 - <a href="https://desenvolvimentoparaweb.com/css/unidades-css-rem-vh-vw-vmin-vmax-ex-ch/">Unidades de CSS moderno: rem, vh, vw, vmin, vmax, ex e ch</a>
 
 - <a href="https://www.youtube.com/watch?v=OcGpWJ3WEh8">Precisamos conversar sobre o futuro do Desenvolvimento Web</a>
+
+ ### October 29th, 2021
+
+- <a href="https://shourai.io/blog/2020/11/13/top-25-web-development-quotes-inspirational-and-motivational/">25 Web Development quotes</a>
