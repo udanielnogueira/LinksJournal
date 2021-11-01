@@ -20,3 +20,9 @@
  - <a href="https://nicepage.com/templates">Nice Page templates</a>
 
  - <a href="https://www.lipsum.com/">Lorem Ipsum</a>
+
+  ### November 1st, 2021
+
+ - <a href="https://www.favicon.cc/">Favicon Generator</a>
+
+ - <a href="https://unsplash.com/">Unsplash</a>
