@@ -27,8 +27,10 @@
 
  - <a href="https://unsplash.com/">Unsplash</a>
 
- ### November 4th, 2021
+ ### November 3rd, 2021
 
  - <a href="https://1stwebdesigner.com/css-effects/">150+ Amazing Examples of CSS Animation & Effects</a>
 
  - <a href="https://scrollrevealjs.org/">Scroll Reveal</a>
+
+ - <a href="https://www.infowester.com/menulateralcss.php">Criando um menu lateral</a>
