@@ -21,8 +21,14 @@
 
  - <a href="https://www.lipsum.com/">Lorem Ipsum</a>
 
-  ### November 1st, 2021
+ ### November 1st, 2021
 
  - <a href="https://www.favicon.cc/">Favicon Generator</a>
 
  - <a href="https://unsplash.com/">Unsplash</a>
+
+ ### November 4th, 2021
+
+ - <a href="https://1stwebdesigner.com/css-effects/">150+ Amazing Examples of CSS Animation & Effects</a>
+
+ - <a href="https://scrollrevealjs.org/">Scroll Reveal</a>
