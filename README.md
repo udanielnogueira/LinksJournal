@@ -34,3 +34,15 @@
  - <a href="https://scrollrevealjs.org/">Scroll Reveal</a>
 
  - <a href="https://www.infowester.com/menulateralcss.php">Criando um menu lateral</a>
+
+ ### December 6th, 2021
+
+ - <a href="https://medium.com/data-hackers/uma-introdu%C3%A7%C3%A3o-simples-ao-pandas-1e15eea37fa1">Introdução ao Pandas</a>
+
+ - <a href="https://paulovasconcellos.com.br/28-comandos-%C3%BAteis-de-pandas-que-talvez-voc%C3%AA-n%C3%A3o-conhe%C3%A7a-6ab64beefa93">28 comandos úteis de Pandas</a>
+
+ - <a href="https://www.todamateria.com.br/desvio-padrao/">Desvio Padrão</a>
+
+ - <a href="https://www.delftstack.com/pt/api/python-pandas/pandas-dataframe-dataframe.describe-function/">Função dataframe.describe()</a>
+
+
