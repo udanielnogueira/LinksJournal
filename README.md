@@ -39,7 +39,7 @@
 
  - <a href="https://medium.com/data-hackers/uma-introdu%C3%A7%C3%A3o-simples-ao-pandas-1e15eea37fa1">Introdução ao Pandas</a>
 
- - <a href="https://paulovasconcellos.com.br/28-comandos-%C3%BAteis-de-pandas-que-talvez-voc%C3%AA-n%C3%A3o-conhe%C3%A7a-6ab64beefa93" target="_blank">28 comandos úteis de Pandas</a>
+ - <a href="https://paulovasconcellos.com.br/28-comandos-%C3%BAteis-de-pandas-que-talvez-voc%C3%AA-n%C3%A3o-conhe%C3%A7a-6ab64beefa93" target="_blank" >28 comandos úteis de Pandas</a>
 
  - <a href="https://www.todamateria.com.br/desvio-padrao/">Desvio Padrão</a>
 
