@@ -45,4 +45,5 @@
 
  - <a href="https://www.delftstack.com/pt/api/python-pandas/pandas-dataframe-dataframe.describe-function/">Função dataframe.describe()</a>
 
+- <a href="https://www.w3schools.com/python/pandas/default.asp">Pandas Tutorial W3 Schools</a>
 
