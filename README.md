@@ -47,3 +47,8 @@
 
 - <a href="https://www.w3schools.com/python/pandas/default.asp">Pandas Tutorial W3 Schools</a>
 
+### December 14th, 2021
+
+ - <a href="https://medium.com/dados-de-cientista/data-wrangling-x-data-munging-b47bd3a4d555">Data Wrangling x Data Munging</a>
+
+ - <a href="https://www.kaggle.com/">Kaggle Data Science Community</a>
