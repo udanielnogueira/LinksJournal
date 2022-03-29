@@ -52,3 +52,7 @@
  - <a href="https://medium.com/dados-de-cientista/data-wrangling-x-data-munging-b47bd3a4d555">Data Wrangling x Data Munging</a>
 
  - <a href="https://www.kaggle.com/">Kaggle Data Science Community</a>
+
+### March 29th, 2022
+
+ - <a href="https://www.atlassian.com/git/tutorials/syncing">Syncing on Git</a>
