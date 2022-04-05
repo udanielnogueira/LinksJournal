@@ -56,3 +56,7 @@
 ### March 29th, 2022
 
  - <a href="https://www.atlassian.com/git/tutorials/syncing">Syncing on Git</a>
+
+### April 5th, 2022
+
+ - <a href="https://blog.betrybe.com/git/git-pull/">git pull x git fetch</a>
