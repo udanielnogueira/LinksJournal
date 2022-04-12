@@ -60,3 +60,8 @@
 ### April 5th, 2022
 
  - <a href="https://blog.betrybe.com/git/git-pull/">git pull x git fetch</a>
+
+
+### April 12th, 2022
+
+ - <a href="https://zimmergren.net/enable-transparent-background-in-windows-terminal/">Transparent Windows Terminal</a>
