@@ -59,9 +59,15 @@
 
 ### April 5th, 2022
 
- - <a href="https://blog.betrybe.com/git/git-pull/">git pull x git fetch</a>
+ - <a href="https://blog.betrybe.com/git/git-pull/">Git pull x Git fetch</a>
 
 
 ### April 12th, 2022
 
- - <a href="https://zimmergren.net/enable-transparent-background-in-windows-terminal/">Transparent Windows Terminal</a>
+ - <a href="https://zimmergren.net/enable-transparent-background-in-windows-terminal/">Transparent Windows terminal</a>
+
+ - <a href="https://www.delftstack.com/howto/python/python-int-to-binary/">Binary in Python</a>
+
+ - <a href="https://www.w3schools.com/python/python_try_except.asp">Try Except in Python</a>
+
+ - <a href="https://www.delftstack.com/howto/python/python-current-year/">Current year in Python</a>
