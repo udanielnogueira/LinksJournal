@@ -61,7 +61,6 @@
 
  - <a href="https://blog.betrybe.com/git/git-pull/">Git pull x Git fetch</a>
 
-
 ### April 12th, 2022
 
  - <a href="https://zimmergren.net/enable-transparent-background-in-windows-terminal/">Transparent Windows terminal</a>
@@ -71,3 +70,7 @@
  - <a href="https://www.w3schools.com/python/python_try_except.asp">Try Except in Python</a>
 
  - <a href="https://www.delftstack.com/howto/python/python-current-year/">Current year in Python</a>
+
+### September 06th, 2022
+
+ - <a href="https://desenvolvimentoparaweb.com/css/navegacao-ancora-smooth-scroll-css-puro/">Navegação âncora e smooth scroll com CSS puro</a>
