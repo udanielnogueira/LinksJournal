@@ -77,3 +77,11 @@ A journal of links visited while I was programming.
 - <a href="https://desenvolvimentoparaweb.com/css/navegacao-ancora-smooth-scroll-css-puro/">Navegação âncora e smooth scroll com CSS puro</a>
 
 - <a href="https://jsfiddle.net/">JSFiddle Online IDE</a>
+
+### September 08th, 2022
+
+https://dev.to/domagojvidovic/all-css-properties-you-need-to-know-to-build-a-website-3dbb
+
+https://www.webdesignerdepot.com/2016/10/20-essential-css-tricks-every-designer-should-know/
+
+https://www.makeuseof.com/css-tips-and-tricks-you-must-know/
