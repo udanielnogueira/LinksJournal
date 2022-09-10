@@ -85,3 +85,11 @@ https://dev.to/domagojvidovic/all-css-properties-you-need-to-know-to-build-a-web
 https://www.webdesignerdepot.com/2016/10/20-essential-css-tricks-every-designer-should-know/
 
 https://www.makeuseof.com/css-tips-and-tricks-you-must-know/
+
+### September 09th, 2022
+
+https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design
+
+https://www.alura.com.br/artigos/guia-de-unidades-no-css
+
+https://www.hostinger.com.br/tutoriais/criar-site-responsivo-css
