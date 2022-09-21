@@ -98,4 +98,8 @@ https://www.hostinger.com.br/tutoriais/criar-site-responsivo-css
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing
 
-https://pt.stackoverflow.com/questions/6595/como-desabilitar-o-scroll-de-uma-p%C3%A1gina-web
+https://pt.stackoverflow.com/questions/6595/como-desabilitar-o-scroll-de-uma-página-web
+
+### September 21th, 2022
+
+https://enemaneiras.com.br/2021/03/alterar-cor-svg-via-codigo/
