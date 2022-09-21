@@ -97,3 +97,5 @@ https://www.hostinger.com.br/tutoriais/criar-site-responsivo-css
 ### September 20th, 2022
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing
+
+https://pt.stackoverflow.com/questions/6595/como-desabilitar-o-scroll-de-uma-p%C3%A1gina-web
