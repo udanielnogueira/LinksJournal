@@ -93,3 +93,7 @@ https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design
 https://www.alura.com.br/artigos/guia-de-unidades-no-css
 
 https://www.hostinger.com.br/tutoriais/criar-site-responsivo-css
+
+### September 20th, 2022
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing
