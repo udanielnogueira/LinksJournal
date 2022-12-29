@@ -103,3 +103,9 @@ https://pt.stackoverflow.com/questions/6595/como-desabilitar-o-scroll-de-uma-pá
 ### September 21th, 2022
 
 https://enemaneiras.com.br/2021/03/alterar-cor-svg-via-codigo/
+
+### October 18th, 2022
+
+https://www.w3schools.com/css/css_rwd_mediaqueries.asp
+
+https://www.w3schools.com/tags/att_source_media.asp
