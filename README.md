@@ -109,3 +109,7 @@ https://enemaneiras.com.br/2021/03/alterar-cor-svg-via-codigo/
 https://www.w3schools.com/css/css_rwd_mediaqueries.asp
 
 https://www.w3schools.com/tags/att_source_media.asp
+
+### January 04th, 2023
+
+https://www.programiz.com/python-programming/datetime
