@@ -10,79 +10,79 @@ I only use Notion now, this repository is deprecated.
 
 ### October 27th, 2021
 
-<a href="https://olhardigital.com.br/en/2021/04/14/dicas-e-tutoriais/como-limpar-o-cache-de-um-site-no-chrome-e-no-edge/">How to clear a specific website's cache</a>
+https://olhardigital.com.br/en/2021/04/14/dicas-e-tutoriais/como-limpar-o-cache-de-um-site-no-chrome-e-no-edge/
 
-<a href="https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token">Creating a personal access GitHub token</a>
+https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
 
-<a href="https://desenvolvimentoparaweb.com/css/unidades-css-rem-vh-vw-vmin-vmax-ex-ch/">Unidades de CSS moderno: rem, vh, vw, vmin, vmax, ex e ch</a>
+https://desenvolvimentoparaweb.com/css/unidades-css-rem-vh-vw-vmin-vmax-ex-ch/
 
-<a href="https://www.youtube.com/watch?v=OcGpWJ3WEh8">Precisamos conversar sobre o futuro do Desenvolvimento Web</a>
+https://www.youtube.com/watch?v=OcGpWJ3WEh8
 
 ### October 29th, 2021
 
-<a href="https://shourai.io/blog/2020/11/13/top-25-web-development-quotes-inspirational-and-motivational/">25 Web Development quotes</a>
+https://shourai.io/blog/2020/11/13/top-25-web-development-quotes-inspirational-and-motivational/
 
 ### October 31th, 2021
 
-<a href="https://nicepage.com/templates">Nice Page templates</a>
+https://nicepage.com/templates
 
-<a href="https://www.lipsum.com/">Lorem Ipsum</a>
+https://www.lipsum.com/
 
 ### November 1st, 2021
 
-<a href="https://www.favicon.cc/">Favicon Generator</a>
+https://www.favicon.cc/
 
-<a href="https://unsplash.com/">Unsplash</a>
+https://unsplash.com/
 
 ### November 3rd, 2021
 
-<a href="https://1stwebdesigner.com/css-effects/">150+ Amazing Examples of CSS Animation & Effects</a>
+https://1stwebdesigner.com/css-effects/
 
-<a href="https://scrollrevealjs.org/">Scroll Reveal</a>
+https://scrollrevealjs.org/
 
-<a href="https://www.infowester.com/menulateralcss.php">Criando um menu lateral</a>
+https://www.infowester.com/menulateralcss.php
 
 ### December 6th, 2021
 
-<a href="https://medium.com/data-hackers/uma-introdu%C3%A7%C3%A3o-simples-ao-pandas-1e15eea37fa1">Introdução ao Pandas</a>
+https://medium.com/data-hackers/uma-introdu%C3%A7%C3%A3o-simples-ao-pandas-1e15eea37fa1
 
-<a href="https://paulovasconcellos.com.br/28-comandos-%C3%BAteis-de-pandas-que-talvez-voc%C3%AA-n%C3%A3o-conhe%C3%A7a-6ab64beefa93">28 comandos úteis de Pandas</a>
+https://paulovasconcellos.com.br/28-comandos-%C3%BAteis-de-pandas-que-talvez-voc%C3%AA-n%C3%A3o-conhe%C3%A7a-6ab64beefa93
 
-<a href="https://www.todamateria.com.br/desvio-padrao/" target="_blank" >Desvio Padrão</a>
+https://www.todamateria.com.br/desvio-padrao/
 
-<a href="https://www.delftstack.com/pt/api/python-pandas/pandas-dataframe-dataframe.describe-function/">Função dataframe.describe()</a>
+https://www.delftstack.com/pt/api/python-pandas/pandas-dataframe-dataframe.describe-function/
 
-<a href="https://www.w3schools.com/python/pandas/default.asp">Pandas Tutorial W3 Schools</a>
+https://www.w3schools.com/python/pandas/default.asp
 
 ### December 14th, 2021
 
-<a href="https://medium.com/dados-de-cientista/data-wrangling-x-data-munging-b47bd3a4d555">Data Wrangling x Data Munging</a>
+https://medium.com/dados-de-cientista/data-wrangling-x-data-munging-b47bd3a4d555
 
-<a href="https://www.kaggle.com/">Kaggle Data Science Community</a>
+https://www.kaggle.com/
 
 ### March 29th, 2022
 
-<a href="https://www.atlassian.com/git/tutorials/syncing">Syncing on Git</a>
+https://www.atlassian.com/git/tutorials/syncing
 
 ### April 5th, 2022
 
-<a href="https://blog.betrybe.com/git/git-pull/">Git pull x Git fetch</a>
+https://blog.betrybe.com/git/git-pull/
 
 ### April 12th, 2022
 
-<a href="https://zimmergren.net/enable-transparent-background-in-windows-terminal/">Transparent Windows terminal</a>
+https://zimmergren.net/enable-transparent-background-in-windows-terminal/
 
-<a href="https://www.delftstack.com/howto/python/python-int-to-binary/">Binary in Python</a>
+https://www.delftstack.com/howto/python/python-int-to-binary/
 
-<a href="https://www.w3schools.com/python/python_try_except.asp">Try Except in Python</a>
+https://www.w3schools.com/python/python_try_except.asp
 
-<a href="https://www.delftstack.com/howto/python/python-current-year/">Current year in Python</a>
+https://www.delftstack.com/howto/python/python-current-year/
 
 ### September 06th, 2022
 
-<a href="https://desenvolvimentoparaweb.com/css/navegacao-ancora-smooth-scroll-css-puro/">Navegação âncora e smooth scroll com CSS puro</a>
+https://desenvolvimentoparaweb.com/css/navegacao-ancora-smooth-scroll-css-puro/
 
-<a href="https://jsfiddle.net/">JSFiddle Online IDE</a>
+https://jsfiddle.net/
 
 ### September 08th, 2022
 
